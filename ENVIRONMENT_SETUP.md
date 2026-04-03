@@ -7,21 +7,21 @@
 ## Virtual Environment Setup
 
 ### 1. Virtual Environment Creation
-The virtual environment has been created with the name `snowpylot-env` and is located in the project root directory.
+The virtual environment should be created with the name `sp-app` and stored in the project root directory.
 
 ### 2. Activating the Virtual Environment
 
 **On macOS/Linux:**
 ```bash
-source snowpylot-env/bin/activate
+source sp-app/bin/activate
 ```
 
 **On Windows:**
 ```bash
-snowpylot-env\Scripts\activate
+sp-app\Scripts\activate
 ```
 
-When activated, you should see `(snowpylot-env)` at the beginning of your command prompt.
+When activated, you should see `(sp-app)` at the beginning of your command prompt.
 
 ### 3. Deactivating the Virtual Environment
 To deactivate the virtual environment, simply run:
@@ -43,7 +43,7 @@ The following packages have been installed in the virtual environment:
 
 1. Activate the virtual environment:
    ```bash
-   source snowpylot-env/bin/activate
+   source sp-app/bin/activate
    ```
 
 2. Navigate to the notebooks directory:
@@ -64,12 +64,12 @@ A `requirements.txt` file has been generated with all package versions. To recre
 
 1. Create a new virtual environment:
    ```bash
-   python3 -m venv snowpylot-env
+   python3 -m venv sp-app
    ```
 
 2. Activate it:
    ```bash
-   source snowpylot-env/bin/activate
+   source sp-app/bin/activate
    ```
 
 3. Install the requirements:
