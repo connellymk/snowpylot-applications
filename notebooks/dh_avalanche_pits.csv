@@ -1,0 +1,90 @@
+pit_id,pit_date,pit_name,operation_name,professional,pit_country,pit_region,pit_near_avalanche_location,LOC_grain_form,Comments
+10947,2018-12-12,Bald 3.5 top,Telluride Ski Patrol,True,US,CO,flank,DH,
+11769,2018-12-28,20181228 Perm closure,Sun Peaks Ski Resort,True,CA,BC,crown,DH,pit adjacent to glide release crown. Fracture line profile same
+1268,2017-01-15,Prospect Mtn,Colorado Avalanche Information Center,True,US,CO,flank,DH,"Avalanche was snowmobile triggered, two days before (1/13)."
+13559,2019-01-27,Logpile 2,,False,CA,BC,flank,DH,"Open trees, sun affected. West of logpile 2."
+13792,2019-02-01,hanging valley,Big Sky Ski Patrol,True,US,MT,crown,DH,"pit was next to the crow of the deep slab avalanche that failed on 01/26/19, in the snow that did not avalanche."
+13993,2019-02-05,Crown Profile - TSS,American Avalanche Institute,True,US,WY,crown,DH,Crown profile.  SS-N-D2-O.  Avalanche occurred at approx. 1:55 pm.  Toe reached the parking lot and moved vehicles 10s of feet.  Start zone angle measured between 38* - 43* (only measured in a few spots)  Ran from 6515' to 6190' (325')  Shot a couple run out angles.  Measured between 27* in one spot and 25* in another.  Crown width = approx. 800 feet wide.
+14141,2019-02-10,Windy Ridge Fatality,Utah Avalanche Center,True,US,UT,flank,DH,
+14302,2019-02-13,Cement Creak,,False,US,CO,crown,DH,"This is a fracture line profile performed on an slide that occurred right off State Highway 110A, on the east side of the road, across from Niagara Gulch.The approximate width was 50', track ran 80', and the length was 100'. The bed surface was a grassy slope, above a creek, with an unsupportive base. "
+1586,2017-01-29,V Max Avalache,Chugach National Forest Avalanche Center,True,US,AK,flank,DH,V Max Avalanche flank profile
+16135,2019-02-10,Sa SIMA,Yukon Avalanche Association,True,CA,Yukon,crown,DH,
+17865,2019-12-04,West Desolation,Utah Avalanche Center,True,US,UT,flank,DH,Dug on low angle sub-ridge between two recent natural avalanches
+18030,2019-12-07,Fifis 1.5 ,,False,US,CO,flank,DH,
+1804,2017-01-20,"Vail Narrows, Top",Colorado Avalanche Information Center,True,US,CO,crown,DH,With RonSimenhois
+18179,2019-12-09,Lanes Leap,Utah Avalanche Center,True,US,UT,crown,DH,"Crown profile of remotely triggered avalanche from Dec 7th. It now has about 12 cm of snow plus some wind drifting on top of the crown and bed surface. The avalanche broke on top of facets at 24 cm
+This path is a REPEATER which previously avalanched during the Thanksgiving week storms."
+18998,2019-12-20,20191220,Colorado Avalanche Information Center,True,US,CO,crown,DH,
+23225,2020-02-28,Groomer Crown Profile,Gallatin National Forest Avalanche Center,True,US,MT,crown,DH,This avalanche was triggered by a groomer at 8:15 p.m. on 2/27. Info is here: https://www.mtavalanche.com/node/22269
+25335,2020-08-18,Ceatolei SE 148_2,Codelco Andina,True,CL,Andes,flank,DH,
+25607,2020-11-16,Tiger's Crown Profile,CMC Avalanche Science Program,True,US,CO,crown,DH,R2-D2-As-U-G Avalanche triggered by a ski cut performed by a patroller.  Most likely occurred on the old October/Nov. 10th storm interface.
+27661,2020-12-27,Chimney Chute ,Colorado Avalanche Information Center,True,US,CO,crown,DH,
+27877,2021-01-01,Mineral Fork,Utah Avalanche Center,True,US,UT,flank,DH,"Because of an avalanche just above this pit and others in the area - I think the ECT results are skewed as the slope is likely to have already been collapsed many times.  In our travels, we had 3-6 collapses noted throughout the tour."
+28376,2021-01-08,NE slope East Lime Ck,Colorado Avalanche Information Center,True,US,CO,flank,DH,
+28714,2021-01-12,Guild Line crown,Solitude,True,US,UT,crown,DH,"Pit was dug skiers left side of crown to minimize hangfire exposure. Evidence of previous cross loading in start zone. Width of crown 40', the left flank pulled out down ridge. Slope angle greater on center and right side of crown. R3-D2."
+29796,2021-01-28,Long Canyon,,False,US,NM,crown,DH,
+30123,2021-02-01,Graysill Creek NTL,Purgatory Snowcats,True,US,CO,flank,DH,"Pit dug next to slide but in a spot more protected from wind. Slide ran on wind board formed during Jan 14 wind event, whereas LOC for pit was in Dec snow. A less defined wind influence from Jan 14 was ID'd @ 80-80.5cm"
+30325,2021-02-06,Kesänkitunturi,Ylläs Ski patrol,True,FI,,crown,DH,"Maa kivirakkaa. Profiili tehty lumivyöryn murtumalinjaan. Trigger: Sa, Type: S, Fracture plane: FC (syvempi pääty) ja DH (ohuempi pääty). Vyöry oli 50m leveä ja 300m pitkä, kruunun korkeus 20-75cm, koko 3. Profiili: Elina Molkkari / Eeva Mäkelä."
+30503,2021-02-08,Cornice Ridge Ax,Utah Avalanche Center,True,US,UT,crown,DH,
+30657,2021-02-10,Overlook,Utah Avalanche Center,True,US,UT,flank,DH,Near a remotely triggered avalanche that occurred on 2-8-2021
+30676,2021-02-09,Big Cut Crown Profile,Gallatin National Forest Avalanche Center,True,US,MT,crown,DH,"Avalanche: 150' wide x 200' vertical x 2.5' deep
+Remote trigger from flat terrain 10' uphill of crown"
+30960,2021-02-15,God's Lawnmower,Utah DOT,True,US,UT,flank,DH,
+30973,2021-02-15,Beehive Fatality,Gallatin National Forest Avalanche Center,True,US,MT,crown,DH,This snowpit was part of the accident investigation of an avalanche that occurred on 2/14/2021. 1 splitboarder was killed.
+31329,2021-02-21,Two Goons Avalanche,Park City Ski Patrol,True,US,UT,crown,DH,Pit was dug about 10' above the crown of a large D2.5-R4-AKr-O-5'x500'x1500' in Two Goons on Pinecone Ridge.
+32922,2021-03-20,Napoleon Pass,Colorado Avalanche Information Center,True,US,CO,crown,DH,
+35575,2021-12-11,Snodgrass ne,,False,US,CO,flank,DH,
+36020,2021-12-17,N. Country/Mels Knob,Park City Powder Cats,True,US,UT,crown,DH,
+36525,2021-12-24,Blueslip Bowl,Park City Ski Patrol,True,US,UT,crown,DH,Graupel layers at 70 cm and 89 cm up from ground. Stability tests failed at same layer as avalanche triggered by second skier crossing slope.
+36660,2021-12-27,Cooper Creek 2/3,Colorado Avalanche Information Center,True,US,CO,crown,DH,This avalanche trigged another avalanche sympathetically lower down on the slope on a similar aspect and steep slope angle. SS-AS/c-R2-D1-I
+36913,2021-12-29,Coyote Glade,Utah Avalanche Center,True,US,UT,flank,DH,Pit is in sheltered area right at tree line. Active and previous wind loading on adjacent and nearby slopes. High winds and very active wind loading above tree line. Pit was dug near an old avalanche in Coyote Chute. A widespread cycle occurred on Dec 10 with slabs failing 2'3' deep on the basal faceted layer. This layer has been increasingly non-reactive over the past two weeks. 
+36935,2022-01-01,4 snags,Silverton Mountain,True,US,CO,flank,DH,
+38312,2022-01-17,Barber's Point,Bridger-Teton Avalanche Center,True,US,WY,crown,DH,"SS-AM-R4-D2-O
+Crown 500 feet across, avg crown depth 3 feet, max crown depth 6 feet
+Debris 3-10 feet deep
+Estimated date"
+39180,2022-02-01,Pitkin avalanche,Colorado Avalanche Information Center,True,US,CO,crown,DH,One of the few locations along the avalanche crown safe from hangfire
+40716,2022-02-23,Goat Crown,Chugach National Forest Avalanche Center,True,US,AK,crown,DH,HS-N-R4-D3-O. Avalanche failed on facets below New Year's crust (layer @ 53-45 cm in pit profile).
+41942,2022-03-14,Commodore cliffs,Colorado Avalanche Information Center,True,US,CO,crown,DH,"Fracture Line Profile from a human triggered slide from 3/13/22. No stability tests performed because crown was so tall, we could not reach. HS-AR-R3D2.5"
+41956,2022-03-14,20220314 Mt CB ,Colorado Avalanche Information Center,True,US,CO,crown,DH,"Bank-slope near Marcellina Condos in Mt. Crested Butte, CO. This fracture line profile was dug the day after a small avalanche ran on a bank-slope above a neighborhood road."
+42260,2022-03-18,20220318 Mt Owen,Colorado Avalanche Information Center,True,US,CO,crown,DH,"A group of sled-access snowboarders remote triggered this avalanche from around 600 feet away, from a wind-scoured slope south of the avalanche. Profile represents the deeper, southern end of crown."
+42936,2022-04-01,S.F. Eagle River #1,Alaska Pacific University,True,US,AK,flank,DH,
+42985,2022-04-01,S.Fork E.R./3 Bowls ,Alaska Pacific University,True,US,AK,flank,DH,
+46467,2022-12-19,Hovde SO,Åre Lavincenter,True,SE,Bydalen,crown,DH,
+46552,2022-12-19,Scorpion crown profile,Sawtooth Avalanche Center,True,US,ID,crown,DH,"Crown profile dug 7 days post incident: 100' wide, slope angle 33-37, aspect 270-285. Avalanche failed on both 12/8 (48-49cm) and 11/27 (24-27cm) faceted layers. 
+Stability tests: ECTX x 2, but both tests failed @27cm and propagated with heavy force (kicking shovel). There was very little untracked snow to perform tests, and the column sites were too close to the crown (<1m) to yield valuable results. "
+46662,2022-12-22,Praahkoetjåhke,,False,SE,Västra Vindelfjällen,crown,DH,"Brottkantprofil strax ovanför kollapsat flak som inte gled iväg. Flaket upp till ca 150 cm, PF 80 cm."
+47889,2023-01-08,Middle Bowl Avy,Colorado Avalanche Information Center,True,US,CO,crown,DH,
+49696,2023-01-25,KE23.0 West Ridge,Alpine Solutions Avalanche Services,True,CA,BC,flank,DH,"Windward edge of KE23.0 shoulder. Riming on trees and surface, moderate temps. RL BTL"
+50156,2023-02-03,Park Cone 20230203,Colorado Avalanche Information Center,True,US,CO,crown,DH,
+51400,2023-02-04,Sheenmai incident,,False,IN,Pir Panjal,crown,DH,
+51891,2023-01-06,Desperado-N-BTL-230106,,False,US,NM,crown,DH,"in-bounds location, closed terrain, no tracks at pit site"
+5244,2018-01-09,Perfect Trees Ridge E.,,False,US,CO,crown,DH,"Pit dug on crown of avalanche found on our route. Crown was ~35 cm thick, and slid on depth hoar at 39 cm in snowpack. We classified the Ax as: SS-N-D1/R2-O. We performed an ECT (ECTN14, SC, Q1) near the crown but did not get propagation, though the Ax clearly exhibited some amount of propagation, perhaps the energy had already been released? "
+5362,2018-01-12,Lake Fork Crown ,,False,US,NM,crown,DH,
+55164,2023-08-10,Hollywood Bowl 2,,False,NZ,Treble Cone,flank,DH,"Pit dug in closed area with little skiers traffic, Adjacent to many Sz 2-3 Sp from 230805. Presence of recent wind loading from SW. This structure is Representative of Hollywood Bowl, Mototapu Chutes and the Backcountry snowpack. "
+5582,2018-01-16,1.16.2018 Fairgrrounds,Utah Avalanche Center,True,US,UT,crown,DH,
+564,2016-12-12,Henderson Bench Ava,Gallatin National Forest Avalanche Center,True,US,MT,crown,DH,This avalanche killed a skier on 12/11/2016. SS-AS-R4-D2-O. 
+57712,2023-12-12,Corner Pocket Crown ,,False,US,CO,crown,DH,
+59512,2024-01-19,Thelma Apres,CMC Avalanche Science Program,True,US,CO,crown,DH,
+59536,2024-01-21,Crown Cornice Rib ,Winter Park Resort,True,US,CO,crown,DH,
+59956,2024-01-23,June BC Snowpit # 3,Eastern Sierra Avalanche Center,True,US,CA,crown,DH,
+60901,2024-02-04,Little BC Avalanche,Monument Snowcat Skiing,True,US,UT,crown,DH,We dug on the bed surface of the Little BC avalanche to assess how the new snow has formed to the bed surface. 
+6113,2018-01-29,Mineral Basin,Colorado Avalanche Information Center,True,US,CO,flank,DH,
+61475,2024-02-12,Little BC ,Monument Snowcat Skiing,True,US,UT,flank,DH,Dug on Little BC repeater avalanche
+61773,2024-02-15,Cliff Lake NE ,Colorado Avalanche Information Center,True,US,CO,crown,DH,
+65129,2024-04-06,Hlfj-Púðurbakki_950,Icelandic Meteorological Office,True,IS,Tröllaskagi,flank,DH,"Skoðun á brotstáli í togsprungu aðliggjandi að flóði sem sprengt var í Púðurbakka 2.4 sl., sz #3.
+Greining á samsetningu fleka, veiks lags og rennslisflatar samanborið við önnur nýleg flóð á svæðinu."
+6607,2018-02-08,20180208 Watrous,Colorado Avalanche Information Center,True,US,CO,crown,DH,
+67117,2024-12-04,Mines 2,Colorado Avalanche Information Center,True,US,CO,crown,DH,The avalanche broke on the decomposing MFcr about 20cm from the ground in some places. It stepped down and mostly ran on the ground. There was a similar slide in the adjacent path.
+67258,2024-12-07,Cat Scratch,Steamboat Powdercats,True,US,CO,crown,DH,
+67310,2024-12-08,Beaver Basin,AIARE,True,US,UT,flank,DH,Dug adjacent to size 3 that likely released 20241127. Surprised to get two ECTPVs- base was cavernous talus and overlying slab was very dense. Probably hard to affect these basal layers due to very stout surface crust and midpack slab. 
+68040,2024-12-19,Route 1A shot 1,Jackson Hole Ski Patrol,True,US,WY,crown,DH,Crown Profile
+69634,2025-01-10,20250110 MacFarlanes,Aspen mtn ski patrol,True,US,CO,crown,DH,
+69800,2025-01-03,JB Jungle.Koz,Irwin Guides,True,US,CO,crown,DH,
+71558,2025-02-04,Stairstep NW,,False,US,AK,crown,DH,
+7259,2018-02-21,crosspoint,Beaver Creek Ski Patrol,True,US,CO,flank,DH,
+73178,2025-02-05,Peace sign,Taos Ski Valley,True,US,NM,crown,DH,
+7459,2018-02-25,East Face Giant Steps,Park City Powder Cats,True,US,UT,flank,DH,"multiple shallow SS-N-R2-D1-I 10""D-50'W-400'V"
+7640,2018-03-02,Chablis.  First Rock,,False,US,UT,flank,DH,SS/HS-AS-R3D1.5-O intentionally triggered on up track.  Failed on 3mm facets below Feb 16th snow @ 26cm up from ground. Slab failed and ran on facet/crust interface at 21cm.  Feb 18th dirt layer at 33cm from ground.  50' wide by 1' deep.  Ran 300' vertically.  Second slide HS/SS-AS-R3D2-O on right flank of original slide triggered on same layer with a ski cut.  300' wide 1.5' deep.  Running 400 vert ft and triggering another 350' wide 1' deep SS lower on slope.   This is the same layer that was failing on isolation in UFO Bowl 2 on Feb 28th.  A crack from the avalanche was found 15' - 30' back from crown on ridge line.  
+8429,2018-03-24,Helags heli mitt,"Topsport, Sweden",True,SE,Funäsfjällen,flank,DH,
+8720,2018-04-05,"Björkis, drivan",STF Abisko,True,SE,Björkliden,crown,DH,
