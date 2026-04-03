@@ -4,6 +4,9 @@
 - Python 3.x installed on your system
 - pip package manager
 
+Use Python 3.9 through 3.13 for this project. Avoid Python 3.14 for now, because
+it can trigger a `matplotlib` recursion error in notebook plots.
+
 ## Virtual Environment Setup
 
 ### 1. Virtual Environment Creation
@@ -64,7 +67,7 @@ A `requirements.txt` file has been generated with all package versions. To recre
 
 1. Create a new virtual environment:
    ```bash
-   python3 -m venv sp-app
+   /usr/bin/python3 -m venv sp-app
    ```
 
 2. Activate it:
