@@ -1,4 +1,4 @@
-# Use Python 3.9-3.13 for this project. Python 3.14 currently triggers
+# Use Python 3.13 for this project. Python 3.14 currently triggers
 # a matplotlib recursion bug in the notebook plotting stack.
 
 jupyter>=1.0,<2.0

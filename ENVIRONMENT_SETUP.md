@@ -3,14 +3,20 @@
 ## Prerequisites
 - Python 3.x installed on your system
 - pip package manager
+- uv package and Python manager
 
-Use Python 3.9 through 3.13 for this project. Avoid Python 3.14 for now, because
-it can trigger a `matplotlib` recursion error in notebook plots.
+Use Python 3.13 for this project. Avoid Python 3.14 for now, because it can
+trigger a `matplotlib` recursion error in notebook plots.
 
 ## Virtual Environment Setup
 
 ### 1. Virtual Environment Creation
 The virtual environment should be created with the name `sp-app` and stored in the project root directory.
+
+```bash
+cd /Users/marykate/Desktop/Snow/snowpylot-applications
+UV_CACHE_DIR=/tmp/uv-cache uv venv --python 3.13.11 --seed sp-app
+```
 
 ### 2. Activating the Virtual Environment
 
@@ -67,7 +73,7 @@ A `requirements.txt` file has been generated with all package versions. To recre
 
 1. Create a new virtual environment:
    ```bash
-   /usr/bin/python3 -m venv sp-app
+   UV_CACHE_DIR=/tmp/uv-cache uv venv --python 3.13.11 --seed sp-app
    ```
 
 2. Activate it:
